@@ -24,7 +24,7 @@ export class AppComponent implements OnInit {
   apiKey = 'WpJmaaPiQ66fT95YZF0fFg'
   meetingNumber = '2881965209'
   role = 0
-  leaveUrl = 'http://localhost:4200'
+  leaveUrl = 'https://www.jelpus.com/finalizar'
   userName = 'Jelpus'
   userEmail = ''
   passWord = 'jelpus123'
