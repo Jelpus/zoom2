@@ -22,12 +22,12 @@ export class AppComponent implements OnInit {
   // setup your signature endpoint here: https://github.com/zoom/meetingsdk-sample-signature-node.js
   signatureEndpoint = 'https://contacto-jelpus-zoom.herokuapp.com/'
   apiKey = 'WpJmaaPiQ66fT95YZF0fFg'
-  meetingNumber = '94549989122'
+  meetingNumber = '2881965209'
   role = 0
   leaveUrl = 'http://localhost:4200'
   userName = 'Jelpus'
   userEmail = ''
-  passWord = 'UkRLd0R3eEljVVBKNEQrSHNtYU9PUT09'
+  passWord = 'jelpus123'
   // pass in the registrant's token if your meeting or webinar requires registration. More info here:
   // Meetings: https://marketplace.zoom.us/docs/sdk/native-sdks/web/client-view/meetings#join-registered
   // Webinars: https://marketplace.zoom.us/docs/sdk/native-sdks/web/client-view/webinars#join-registered
